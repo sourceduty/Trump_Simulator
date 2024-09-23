@@ -14,6 +14,8 @@ Additionally, this simulation is designed to be interactive, engaging users thro
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Donald Trump Shooting](https://github.com/sourceduty/Donald_Trump_Shooting)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
