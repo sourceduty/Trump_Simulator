@@ -11,6 +11,10 @@ In this simulation, responses are tailored to align with Trump’s typical strat
 Additionally, this simulation is designed to be interactive, engaging users through a step-by-step question-and-answer format. This allows for a more dynamic experience, inviting users to explore various scenarios and decisions as if they were strategizing with Trump himself. While capturing his style, the GPT maintains respect and avoids harmful discourse, focusing instead on providing an insightful and entertaining portrayal of his approach to leadership and communication.
 
 #
+
+![Trump](https://github.com/user-attachments/assets/ef5b1038-e0e6-4393-9815-cffbf79200aa)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
